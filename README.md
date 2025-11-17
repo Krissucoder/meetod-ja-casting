@@ -1,0 +1,2 @@
+# meetod ja casting
+
